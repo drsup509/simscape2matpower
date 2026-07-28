@@ -5,7 +5,7 @@ cases (".m" case files) and run a power flow to validate the result.
 
 Two model families are supported through a single entry point, auto-detected:
 
-- **Simscape Electrical Three-Phase** (`"e_lib") — e.g. the IEEE 9-bus model.
+- **Simscape Electrical Three-Phase** ("e_lib") — e.g. the IEEE 9-bus model.
 - **Specialized Power Systems** ("powerlib" / SimPowerSystems) — e.g. the New
   England 39-bus model.
 
