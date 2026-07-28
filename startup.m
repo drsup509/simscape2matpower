@@ -1,6 +1,6 @@
 % STARTUP  Initialize the Converter project.
 %   Adds all project folders to the MATLAB path. Steady-state layer uses IEEE
-%   MATPOWER test cases; dynamic layer uses Simscape Electrical.
+%   MATPOWER test cases; dynamic layer uses Simscape Electrical. 
 
 clc;
 clear all;
