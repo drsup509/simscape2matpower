@@ -1,4 +1,4 @@
-% STARTUP  Initialize the TSA project.
+% STARTUP  Initialize the Converter project.
 %   Adds all project folders to the MATLAB path. Steady-state layer uses IEEE
 %   MATPOWER test cases; dynamic layer uses Simscape Electrical.
 
