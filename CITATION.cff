@@ -1,10 +1,23 @@
-cff-version: 1.1.0
-message: "If you use this software, please cite it as below."
+cff-version: 1.2.0
+message: "Please cite this software if you use it in your research."
+title: "simscape2matpower"
+version: "1.0.0"
 authors:
-- family-names: Hussein
-  given-names: Suprême
-orcid: https://orcid.org/0000-0003-2722-2642
-title: simscape2matpower
-version: v4.0.0
+  - family-names: "Suprême"
+    given-names: "Hussein"
+    orcid: "https://orcid.org/0000-0003-2722-2642"
+abstract: >
+  simscape2matpower is a MATLAB/Simscape toolbox that converts Simscape
+  electrical network models into MATPOWER case structures. It enables
+  interoperability between Simulink/Simscape and MATPOWER for load-flow,
+  optimal power flow, and power system simulation studies.
+license: "MIT"
+keywords:
+  - "Simscape"
+  - "MATPOWER"
+  - "Power systems"
+  - "Load flow"
+  - "Optimal power flow"
+  - "MATLAB"
 date-released: 2026-07-29
 
