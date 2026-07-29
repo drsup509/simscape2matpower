@@ -1,4 +1,4 @@
-# simscape2matpower
+# Simscape2MATPOWER: Automated Conversion of Simscape Electrical Networks to MATPOWER Cases
 
 Convert Simulink electrical models to [MATPOWER](https://matpower.org) steady-state
 cases (".m" case files) and run a power flow to validate the result.
