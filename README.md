@@ -98,3 +98,18 @@ Both convert and pass a MATPOWER power flow (Newton, converged).
   run up to 41 with gaps — faithful to the Simulink model, not the textbook.
 - Running two conversions in the same MATLAB session is supported: the MATPOWER
   install step is skipped on the second call.
+
+
+## How to cite the repository?
+If you use this repository in your research, please cite:
+
+```bibtex
+  @dataset{simscape2matpower,
+  author    = {Suprême, Hussein},
+  title     = {Simscape2MATPOWER: Automated Conversion of Simscape Electrical Networks to MATPOWER Cases},
+  year      = {2026},
+  publisher = {Zenodo},
+  doi       = {10.5281/zenodo.21676404},
+  url       = {https://doi.org/10.5281/zenodo.21676404}
+  }
+  
